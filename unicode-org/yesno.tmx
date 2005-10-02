@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "http://www.lisa.org/tmx/tmx14.dtd">
+<tmx version="1.4">
+<header
+creationtool="gentmx.py"
+creationtoolversion="1.0"
+creationdate="20051002T150200Z"
+datatype="plaintext"
+segtype="paragraph"
+adminlang="en"
+srclang="en"
+o-tmf="utf-8"
+>
+<note>This file is generated from UNICODE Org's Common Locale Data Repository (CLDR) v.1.3</note>
+</header>
+<body>
+<tu>
+  <tuv xml:lang="en"> <seg>No</seg></tuv>
+  <tuv xml:lang="ar"> <seg>لا</seg></tuv>
+  <tuv xml:lang="be"> <seg>Не</seg></tuv>
+  <tuv xml:lang="bg"> <seg>не</seg></tuv>
+  <tuv xml:lang="bn"> <seg>না</seg></tuv>
+  <tuv xml:lang="ca"> <seg>No</seg></tuv>
+  <tuv xml:lang="cs"> <seg>NE</seg></tuv>
+  <tuv xml:lang="da"> <seg>Nej</seg></tuv>
+  <tuv xml:lang="de"> <seg>Nein</seg></tuv>
+  <tuv xml:lang="el"> <seg>Όχι</seg></tuv>
+  <tuv xml:lang="es"> <seg>No</seg></tuv>
+  <tuv xml:lang="et"> <seg>ei</seg></tuv>
+  <tuv xml:lang="fi"> <seg>ei</seg></tuv>
+  <tuv xml:lang="fr"> <seg>non</seg></tuv>
+  <tuv xml:lang="gu"> <seg>ના</seg></tuv>
+  <tuv xml:lang="he"> <seg>לא</seg></tuv>
+  <tuv xml:lang="hi"> <seg>नहीं</seg></tuv>
+  <tuv xml:lang="hr"> <seg>Ne</seg></tuv>
+  <tuv xml:lang="hu"> <seg>nem</seg></tuv>
+  <tuv xml:lang="is"> <seg>nei</seg></tuv>
+  <tuv xml:lang="it"> <seg>No</seg></tuv>
+  <tuv xml:lang="ja"> <seg>いいえ</seg></tuv>
+  <tuv xml:lang="kk"> <seg>жоқ</seg></tuv>
+  <tuv xml:lang="ko"> <seg>아니오</seg></tuv>
+  <tuv xml:lang="lt"> <seg>Ne</seg></tuv>
+  <tuv xml:lang="lv"> <seg>nē</seg></tuv>
+  <tuv xml:lang="mk"> <seg>не</seg></tuv>
+  <tuv xml:lang="ml"> <seg>അല്ല</seg></tuv>
+  <tuv xml:lang="mr"> <seg>ना</seg></tuv>
+  <tuv xml:lang="ms"> <seg>Tidak</seg></tuv>
+  <tuv xml:lang="nl"> <seg>Nee</seg></tuv>
+  <tuv xml:lang="pa"> <seg>ਨਹੀਂ</seg></tuv>
+  <tuv xml:lang="pl"> <seg>NIE</seg></tuv>
+  <tuv xml:lang="pt"> <seg>NÃO</seg></tuv>
+  <tuv xml:lang="ro"> <seg>Nu</seg></tuv>
+  <tuv xml:lang="ru"> <seg>нет</seg></tuv>
+  <tuv xml:lang="sk"> <seg>Nie</seg></tuv>
+  <tuv xml:lang="sl"> <seg>ne</seg></tuv>
+  <tuv xml:lang="sq"> <seg>JO</seg></tuv>
+  <tuv xml:lang="sr"> <seg>Не</seg></tuv>
+  <tuv xml:lang="sv"> <seg>nej</seg></tuv>
+  <tuv xml:lang="ta"> <seg>இல்லை</seg></tuv>
+  <tuv xml:lang="te"> <seg>క;ా;ద;ు</seg></tuv>
+  <tuv xml:lang="th"> <seg>ไม่ใช่</seg></tuv>
+  <tuv xml:lang="tr"> <seg>Hayır</seg></tuv>
+  <tuv xml:lang="uk"> <seg>Ні</seg></tuv>
+  <tuv xml:lang="vi"> <seg>không</seg></tuv>
+  <tuv xml:lang="zh"> <seg>否定</seg></tuv>
+</tu>
+<tu>
+  <tuv xml:lang="en"> <seg>Yes</seg></tuv>
+  <tuv xml:lang="ar"> <seg>نعم</seg></tuv>
+  <tuv xml:lang="be"> <seg>Так</seg></tuv>
+  <tuv xml:lang="bg"> <seg>да</seg></tuv>
+  <tuv xml:lang="bn"> <seg>হ্য়াঁ</seg></tuv>
+  <tuv xml:lang="ca"> <seg>Sí</seg></tuv>
+  <tuv xml:lang="cs"> <seg>ANO</seg></tuv>
+  <tuv xml:lang="da"> <seg>Ja</seg></tuv>
+  <tuv xml:lang="de"> <seg>Ja</seg></tuv>
+  <tuv xml:lang="el"> <seg>Ναι</seg></tuv>
+  <tuv xml:lang="es"> <seg>Sí</seg></tuv>
+  <tuv xml:lang="et"> <seg>jah</seg></tuv>
+  <tuv xml:lang="fi"> <seg>kyllä</seg></tuv>
+  <tuv xml:lang="fr"> <seg>oui</seg></tuv>
+  <tuv xml:lang="gu"> <seg>હા</seg></tuv>
+  <tuv xml:lang="he"> <seg>כן</seg></tuv>
+  <tuv xml:lang="hi"> <seg>हाँ</seg></tuv>
+  <tuv xml:lang="hr"> <seg>Da</seg></tuv>
+  <tuv xml:lang="hu"> <seg>igen</seg></tuv>
+  <tuv xml:lang="is"> <seg>já</seg></tuv>
+  <tuv xml:lang="it"> <seg>Sì</seg></tuv>
+  <tuv xml:lang="ja"> <seg>はい</seg></tuv>
+  <tuv xml:lang="kk"> <seg>иә</seg></tuv>
+  <tuv xml:lang="ko"> <seg>예</seg></tuv>
+  <tuv xml:lang="lt"> <seg>Taip</seg></tuv>
+  <tuv xml:lang="lv"> <seg>jā</seg></tuv>
+  <tuv xml:lang="mk"> <seg>да</seg></tuv>
+  <tuv xml:lang="ml"> <seg>അതെ</seg></tuv>
+  <tuv xml:lang="mr"> <seg>हां</seg></tuv>
+  <tuv xml:lang="ms"> <seg>Ya</seg></tuv>
+  <tuv xml:lang="nl"> <seg>Ja</seg></tuv>
+  <tuv xml:lang="pa"> <seg>ਹਾਂ</seg></tuv>
+  <tuv xml:lang="pl"> <seg>TAK</seg></tuv>
+  <tuv xml:lang="pt"> <seg>SIM</seg></tuv>
+  <tuv xml:lang="ro"> <seg>Da</seg></tuv>
+  <tuv xml:lang="ru"> <seg>да</seg></tuv>
+  <tuv xml:lang="sk"> <seg>Ano</seg></tuv>
+  <tuv xml:lang="sl"> <seg>da;ja</seg></tuv>
+  <tuv xml:lang="sq"> <seg>PO</seg></tuv>
+  <tuv xml:lang="sr"> <seg>Да</seg></tuv>
+  <tuv xml:lang="sv"> <seg>ja</seg></tuv>
+  <tuv xml:lang="ta"> <seg>ஆம்</seg></tuv>
+  <tuv xml:lang="te"> <seg>అ;వ;న;ు</seg></tuv>
+  <tuv xml:lang="th"> <seg>ใช่</seg></tuv>
+  <tuv xml:lang="tr"> <seg>Evet</seg></tuv>
+  <tuv xml:lang="uk"> <seg>Так</seg></tuv>
+  <tuv xml:lang="vi"> <seg>có;có</seg></tuv>
+  <tuv xml:lang="zh"> <seg>确定</seg></tuv>
+</tu>
+</body>
+</tmx>
