@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  This list has been coordinated with the Europa.eu.int frontpage and amended
+  to cover the languages used by EEA.
+-->
+<languages>
+
+<lang code="bg">Български</lang>
+<lang code="cs">Čeština</lang>
+<lang code="da">Dansk</lang>
+<lang code="de">Deutsch</lang>
+<lang code="el">Ελληνικά</lang>
+<lang code="en">English</lang>
+<lang code="es">Español</lang>
+<lang code="et">Eesti keel</lang>
+<lang code="fi">Suomi</lang>
+<lang code="fr">Français</lang>
+<lang code="hu">Magyar</lang>
+<lang code="is">Íslenska</lang>
+<lang code="it">Italiano</lang>
+<lang code="lt">Lietuvių kalba</lang>
+<lang code="lv">Latviešu valoda</lang>
+<lang code="mt">Malti</lang>
+<lang code="nl">Nederlands</lang>
+<lang code="no">Norsk</lang>
+<lang code="pl">Polski</lang>
+<lang code="pt">Português</lang>
+<lang code="ro">Română</lang>
+<lang code="sk">Slovenčina</lang>
+<lang code="sl">Slovenščina</lang>
+<lang code="sv">Svenska</lang>
+<lang code="tr">Türkçe</lang>
+
+</languages>
