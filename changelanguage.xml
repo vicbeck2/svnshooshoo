@@ -4,34 +4,46 @@
   to cover the languages used by EEA.
 -->
 <languages>
-
 <lang code="bg" english="Bulgarian" eea="yes">Български</lang>
-<lang code="cs" eea="yes">Čeština</lang>
+<lang code="cs" english="Czech" eea="yes">Čeština</lang>
 <lang code="da" eea="yes">Dansk</lang>
-<lang code="de" eea="yes">Deutsch</lang>
+<lang code="de" english="German" eea="yes">Deutsch</lang>
 <lang code="el" english="Greek" eea="yes">Ελληνικά</lang>
 <lang code="en" eea="yes">English</lang>
 <lang code="es" eea="yes">Español</lang>
-<lang code="et" eea="yes">Eesti keel</lang>
-<lang code="fi" eea="yes">Suomi</lang>
+<lang code="et" english="Estonian" eea="yes">Eesti keel</lang>
+<lang code="fi" english="Finnish" eea="yes">Suomi</lang>
 <lang code="fr" eea="yes">Français</lang>
-<lang code="hu" eea="yes">Magyar</lang>
-<lang code="is" eea="yes">Íslenska</lang>
-<lang code="it" eea="yes">Italiano</lang>
-<lang code="lt" eea="yes">Lietuviškai</lang>
-<lang code="lv" eea="yes">Latviešu</lang>
+<lang code="hu" english="Hungarian" eea="yes">Magyar</lang>
+<lang code="is" english="Icelandic" eea="yes">Íslenska</lang>
+<lang code="it" english="Italian" eea="yes">Italiano</lang>
+<lang code="lt" english="Lithuanian" eea="yes">Lietuviškai</lang>
+<lang code="lv" english="Latvian" eea="yes">Latviešu</lang>
 <lang code="mt" eea="yes">Malti</lang>
 <lang code="nl" eea="yes">Nederlands</lang>
 <lang code="no" eea="yes">Norsk</lang>
 <lang code="pl" eea="yes">Polski</lang>
 <lang code="pt" eea="yes">Português</lang>
-<lang code="ro" eea="yes">Română</lang>
-<lang code="sk" eea="yes">Slovenčina</lang>
-<lang code="sl" eea="yes">Slovenščina</lang>
+<lang code="ro" english="Romanian" eea="yes">Română</lang>
+<lang code="sk" english="Slovak" eea="yes">Slovenčina</lang>
+<lang code="sl" english="Slovenian" eea="yes">Slovenščina</lang>
 <lang code="sv" eea="yes">Svenska</lang>
 <lang code="tr" eea="yes">Türkçe</lang>
-<lang code="uk" english="Ukranian" eea="no">Українська</lang>
-<lang code="sq" english="Albanian" eea="no">Shqipe</lang>
+
+<lang code="be" english="Belarusian" eea="no">Беларускі</lang>
+<lang code="bs" english="Bosnian" eea="no">Bosanski</lang>
+<lang code="ca" english="Catalan" eea="no">Català</lang>
+<lang code="ga" english="Irish" eea="no">Gaeilge</lang>
+<lang code="hr" english="Croatian" eea="no">Hrvatski</lang>
+<lang code="hy" english="Armenian" eea="no">Հայերէն</lang>
+<lang code="ka" english="Georgian" eea="no">ქართული ენა</lang>
 <lang code="mk" english="Macedonian" eea="no">македонски</lang>
+<lang code="mo" english="Moldovan" eea="no">Moldovenească</lang>
+<lang code="rm" english="Romansch (Swiss)" eea="no">Rumantsch</lang>
 <lang code="ru" english="Russian" eea="no">Русский</lang>
+<lang code="sh" english="Serbo-Croatian" eea="no">Srpskohrvatski</lang>
+<lang code="sq" english="Albanian" eea="no">Shqipe</lang>
+<lang code="sr" english="Serbian" eea="no">Српски</lang>
+<lang code="uk" english="Ukranian" eea="no">Українська</lang>
 </languages>
+
