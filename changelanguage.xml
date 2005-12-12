@@ -9,7 +9,7 @@
 <lang code="cs" eea="yes">Čeština</lang>
 <lang code="da" eea="yes">Dansk</lang>
 <lang code="de" eea="yes">Deutsch</lang>
-<lang code="el" english="Grrek" eea="yes">Ελληνικά</lang>
+<lang code="el" english="Greek" eea="yes">Ελληνικά</lang>
 <lang code="en" eea="yes">English</lang>
 <lang code="es" eea="yes">Español</lang>
 <lang code="et" eea="yes">Eesti keel</lang>
@@ -19,7 +19,7 @@
 <lang code="is" eea="yes">Íslenska</lang>
 <lang code="it" eea="yes">Italiano</lang>
 <lang code="lt" eea="yes">Lietuviškai</lang>
-<lang code="lv" eea="yes">Latviešu valoda</lang>
+<lang code="lv" eea="yes">Latviešu</lang>
 <lang code="mt" eea="yes">Malti</lang>
 <lang code="nl" eea="yes">Nederlands</lang>
 <lang code="no" eea="yes">Norsk</lang>
@@ -31,7 +31,7 @@
 <lang code="sv" eea="yes">Svenska</lang>
 <lang code="tr" eea="yes">Türkçe</lang>
 <lang code="uk" english="Ukranian" eea="no">Українська</lang>
-<lang code="sq" english="Albanian" eea="no">shqipe</lang>
+<lang code="sq" english="Albanian" eea="no">Shqipe</lang>
 <lang code="mk" english="Macedonian" eea="no">македонски</lang>
-
+<lang code="ru" english="Russian" eea="no">Русский</lang>
 </languages>
