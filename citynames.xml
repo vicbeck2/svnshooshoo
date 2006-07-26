@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
+   http://en.wikipedia.org/wiki/Names_of_European_cities_in_different_languages
+
    This file can only be used to map alternative spellings and old names
    to the original. You CANNOT use it for translations, as you might get
    incorrect/obsolete translations, such as Königsberg for Kaliningrad.
 
    Definition of 's' attribute:
          old: old usage/spelling
+         medieval: before establishment of current national states
          former: City has been officially renamed, and this is the former name
 -->
 <cities>
