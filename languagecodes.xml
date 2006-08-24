@@ -1,0 +1,414 @@
+<langs>
+<lang t="abk" c1="ab">Abkhazian</lang>
+<lang t="ace">Achinese</lang>
+<lang t="ach">Acoli</lang>
+<lang t="ada">Adangme</lang>
+<lang t="aar" c1="aa">Afar</lang>
+<lang t="afh">Afrihili</lang>
+<lang t="afr" c1="af">Afrikaans</lang>
+<lang t="afa">Afro-Asiatic (Other)</lang>
+<lang t="aka">Akan</lang>
+<lang t="akk">Akkadian</lang>
+<lang b="alb" t="sqi" c1="sq">Albanian</lang>
+<lang t="ale">Aleut</lang>
+<lang t="alg">Algonquian languages</lang>
+<lang t="tut">Altaic (Other)</lang>
+<lang t="amh" c1="am">Amharic</lang>
+<lang t="apa">Apache languages</lang>
+<lang t="ara" c1="ar">Arabic</lang>
+<lang t="arc">Aramaic</lang>
+<lang t="arp">Arapaho</lang>
+<lang t="arn">Araucanian</lang>
+<lang t="arw">Arawak</lang>
+<lang b="arm" t="hye" c1="hy">Armenian</lang>
+<lang t="art">Artificial (Other)</lang>
+<lang t="asm" c1="as">Assamese</lang>
+<lang t="ast">Astur-Leonese</lang>
+<lang t="ath">Athapascan languages</lang>
+<lang t="map">Austronesian (Other)</lang>
+<lang t="ava">Avaric</lang>
+<lang t="ave">Avestan</lang>
+<lang t="awa">Awadhi</lang>
+<lang t="aym" c1="ay">Aymara</lang>
+<lang t="aze" c1="az">Azerbaijani</lang>
+<lang t="nah">Aztec</lang>
+<lang t="ban">Balinese</lang>
+<lang t="bat">Baltic (Other)</lang>
+<lang t="bal">Baluchi</lang>
+<lang t="bam">Bambara</lang>
+<lang t="bai">Bamileke languages</lang>
+<lang t="bad">Banda</lang>
+<lang t="bnt">Bantu (Other)</lang>
+<lang t="bas">Basa</lang>
+<lang t="bak" c1="ba">Bashkir</lang>
+<lang b="baq" t="eus" c1="eu">Basque</lang>
+<lang t="bej">Beja</lang>
+<lang t="bem">Bemba</lang>
+<lang t="ben" c1="bn">Bengali</lang>
+<lang t="ber">Berber (Other)</lang>
+<lang t="bho">Bhojpuri</lang>
+<lang t="bih" c1="bh">Bihari</lang>
+<lang t="bik">Bikol</lang>
+<lang t="bin">Bini</lang>
+<lang t="bis" c1="bi">Bislama</lang>
+<lang t="bra">Braj</lang>
+<lang t="bre" c1="be">Breton</lang>
+<lang t="bug">Buginese</lang>
+<lang t="bul" c1="bg">Bulgarian</lang>
+<lang t="bua">Buriat</lang>
+<lang b="bur" t="mya" c1="my">Burmese</lang>
+<lang t="bel" c1="be">Belarusian</lang>
+<lang t="cad">Caddo</lang>
+<lang t="car">Carib</lang>
+<lang t="cat" c1="ca">Catalan</lang>
+<lang t="cau">Caucasian (Other)</lang>
+<lang t="ceb">Cebuano</lang>
+<lang t="cel">Celtic (Other)</lang>
+<lang t="cai">Central American Indian (Other)</lang>
+<lang t="chg">Chagatai</lang>
+<lang t="cha">Chamorro</lang>
+<lang t="che">Chechen</lang>
+<lang t="chr">Cherokee</lang>
+<lang t="chy">Cheyenne</lang>
+<lang t="chb">Chibcha</lang>
+<lang t="zho" b="chi" c1="zh">Chinese</lang>
+<lang t="chn">Chinook jargon</lang>
+<lang t="cho">Choctaw</lang>
+<lang t="chu">Church Slavic</lang>
+<lang t="chv">Chuvash</lang>
+<lang t="cop">Coptic</lang>
+<lang t="cor">Cornish</lang>
+<lang t="cos" c1="co">Corsican</lang>
+<lang t="cre">Cree</lang>
+<lang t="mus">Creek</lang>
+<lang t="crp">Creoles and Pidgins (Other)</lang>
+<lang t="cpe">Creoles and Pidgins, English-based (Other)</lang>
+<lang t="cpf">Creoles and Pidgins, French-based (Other)</lang>
+<lang t="cpp">Creoles and Pidgins, Portuguese-based (Other)</lang>
+<lang t="crh">Crimean Tatar</lang>
+<lang t="cus">Cushitic (Other)</lang>
+<lang t="hrv" c1="hr">Croatian</lang>
+<lang t="ces" b="cze" c1="cs">Czech</lang>
+<lang t="ine">Dacian</lang>
+<lang t="dak">Dakota</lang>
+<lang t="dan" c1="da">Danish</lang>
+<lang t="del">Delaware</lang>
+<lang t="din">Dinka</lang>
+<lang t="div">Divehi</lang>
+<lang t="doi">Dogri</lang>
+<lang t="dra">Dravidian (Other)</lang>
+<lang t="dua">Duala</lang>
+<lang b="dut" t="nla" c1="nl">Dutch</lang>
+<lang t="dum">Dutch, Middle (ca. 1050-1350)</lang>
+<lang t="dyu">Dyula</lang>
+<lang t="dzo" c1="dz">Dzongkha</lang>
+<lang t="efi">Efik</lang>
+<lang t="egy">Egyptian (Ancient)</lang>
+<lang t="eka">Ekajuk</lang>
+<lang t="elx">Elamite</lang>
+<lang t="eng" c1="en">English</lang>
+<lang t="enm">English, Middle (ca. 1100-1500)</lang>
+<lang t="ang">English, Old (ca. 450-1100)</lang>
+<lang t="esk">Eskimo (Other)</lang>
+<lang t="epo" c1="eo">Esperanto</lang>
+<lang t="est" c1="et">Estonian</lang>
+<lang t="ewe">Ewe</lang>
+<lang t="ewo">Ewondo</lang>
+<lang t="fan">Fang</lang>
+<lang t="fat">Fanti</lang>
+<lang t="fao" c1="fo">Faroese</lang>
+<lang t="fij" c1="fj">Fijian</lang>
+<lang t="fin" c1="fi">Finnish</lang>
+<lang t="fiu">Finno-Ugrian (Other)</lang>
+<lang t="fon">Fon</lang>
+<lang t="fra" b="fre" c1="fr">French</lang>
+<lang t="frm">French, Middle (ca. 1400-1600)</lang>
+<lang t="fro">French, Old (842- ca. 1400)</lang>
+<lang t="fry" c1="fy">Frisian</lang>
+<lang t="fur">Friulian</lang>
+<lang t="ful">Fulah</lang>
+<lang t="gaa">Ga</lang>
+<lang t="gla" c1="gd">Gaelic (Scots)</lang>
+<lang t="glg" c1="gl">Galician</lang>
+<lang t="lug">Ganda</lang>
+<lang t="gay">Gayo</lang>
+<lang t="gez">Geez</lang>
+<lang b="geo" t="kat" c1="ka">Georgian</lang>
+<lang t="deu" b="ger" c1="de">German</lang>
+<lang t="gmh">German, Middle High (ca. 1050-1500)</lang>
+<lang t="goh">German, Old High (ca. 750-1050)</lang>
+<lang t="gem">Germanic (Other)</lang>
+<lang t="gil">Gilbertese</lang>
+<lang t="gon">Gondi</lang>
+<lang t="got">Gothic</lang>
+<lang t="grb">Grebo</lang>
+<lang t="grc">Greek, Ancient (to 1453)</lang>
+<lang t="ell" b="gre" c1="el">Greek, Modern (1453-)</lang>
+<lang t="kal" c1="kl">Greenlandic</lang>
+<lang t="grn" c1="gn">Guarani</lang>
+<lang t="guj" c1="gu">Gujarati</lang>
+<lang t="hai">Haida</lang>
+<lang t="hau" c1="ha">Hausa</lang>
+<lang t="haw">Hawaiian</lang>
+<lang t="heb" c1="he">Hebrew</lang>
+<lang t="her">Herero</lang>
+<lang t="hil">Hiligaynon</lang>
+<lang t="him">Himachali</lang>
+<lang t="hin" c1="hi">Hindi</lang>
+<lang t="hmo">Hiri Motu</lang>
+<lang t="hun" c1="hu">Hungarian</lang>
+<lang t="hup">Hupa</lang>
+<lang t="iba">Iban</lang>
+<lang t="isl" c1="is">Icelandic</lang>
+<lang t="ibo">Igbo</lang>
+<lang t="ijo">Ijo</lang>
+<lang t="ilo">Iloko</lang>
+<lang t="inc">Indic (Other)</lang>
+<lang t="ine">Indo-European (Other)</lang>
+<lang t="ind" c1="id">Indonesian</lang>
+<lang t="ina" c1="ia">Interlingua (International Auxiliary language Association)</lang>
+<lang t="ine">Interlingue</lang>
+<lang t="iku" c1="iu">Inuktitut</lang>
+<lang t="ipk" c1="ik">Inupiak</lang>
+<lang t="ira">Iranian (Other)</lang>
+<lang t="gai" b="iri" c1="ga">Irish</lang>
+<lang t="sga">Irish, Old (to 900)</lang>
+<lang t="mga">Irish, Middle (900 - 1200)</lang>
+<lang t="iro">Iroquoian languages</lang>
+<lang t="ita" c1="it">Italian</lang>
+<lang t="jpn" c1="ja">Japanese</lang>
+<lang t="jav" c1="jv">Javanese</lang>
+<lang t="jrb">Judeo-Arabic</lang>
+<lang t="jpr">Judeo-Persian</lang>
+<lang t="csb">Kashubian</lang>
+<lang t="kab">Kabyle</lang>
+<lang t="kac">Kachin</lang>
+<lang t="kam">Kamba</lang>
+<lang t="kan" c1="kn">Kannada</lang>
+<lang t="kau">Kanuri</lang>
+<lang t="kaa">Kara-Kalpak</lang>
+<lang t="kar">Karen</lang>
+<lang t="kas" c1="ks">Kashmiri</lang>
+<lang t="kaw">Kawi</lang>
+<lang t="kaz" c1="kk">Kazakh</lang>
+<lang t="kha">Khasi</lang>
+<lang t="khm" c1="km">Khmer</lang>
+<lang t="khi">Khoisan (Other)</lang>
+<lang t="kho">Khotanese</lang>
+<lang t="kik">Kikuyu</lang>
+<lang t="kin" c1="rw">Kinyarwanda</lang>
+<lang t="kir" c1="ky">Kirghiz</lang>
+<lang t="kom">Komi</lang>
+<lang t="kon">Kongo</lang>
+<lang t="kok">Konkani</lang>
+<lang t="kor" c1="ko">Korean</lang>
+<lang t="kpe">Kpelle</lang>
+<lang t="kro">Kru</lang>
+<lang t="kua">Kuanyama</lang>
+<lang t="kum">Kumyk</lang>
+<lang t="kur" c1="ku">Kurdish</lang>
+<lang t="kru">Kurukh</lang>
+<lang t="kus">Kusaie</lang>
+<lang t="kut">Kutenai</lang>
+<lang t="lad">Ladino</lang>
+<lang t="lah">Lahnda</lang>
+<lang t="lam">Lamba</lang>
+<lang t="oci" c1="oc">Occitan</lang>
+<lang t="lao" c1="lo">Lao</lang>
+<lang t="lat" c1="la">Latin</lang>
+<lang t="lav" c1="lv">Latvian</lang>
+<lang t="ltz" c1="lb">Luxembourgish</lang>
+<lang t="lez">Lezghian</lang>
+<lang t="lim" c1="li">Limburgish</lang>
+<lang t="lin" c1="ln">Lingala</lang>
+<lang t="lit" c1="lt">Lithuanian</lang>
+<lang t="loz">Lozi</lang>
+<lang t="nds">Low German</lang>
+<lang t="lub">Luba-Katanga</lang>
+<lang t="lui">Luiseno</lang>
+<lang t="lun">Lunda</lang>
+<lang t="luo">Luo (Kenya and Tanzania)</lang>
+<lang b="mac" t="mak" c1="mk">Macedonian</lang>
+<lang t="mad">Madurese</lang>
+<lang t="mag">Magahi</lang>
+<lang t="mai">Maithili</lang>
+<lang t="mak">Makasar</lang>
+<lang t="mlg" c1="mg">Malagasy</lang>
+<lang b="may" t="msa" c1="ms">Malay</lang>
+<lang t="mal">Malayalam</lang>
+<lang t="mlt" c1="ml">Maltese</lang>
+<lang t="man">Mandingo</lang>
+<lang t="mni">Manipuri</lang>
+<lang t="mno">Manobo languages</lang>
+<lang t="max">Manx</lang>
+<lang b="mao" t="mri" c1="mi">Maori</lang>
+<lang t="mar" c1="mr">Marathi</lang>
+<lang t="chm">Mari</lang>
+<lang t="mah">Marshall</lang>
+<lang t="mwr">Marwari</lang>
+<lang t="mas">Masai</lang>
+<lang t="myn">Mayan languages</lang>
+<lang t="men">Mende</lang>
+<lang t="mic">Micmac</lang>
+<lang t="min">Minangkabau</lang>
+<lang t="mis">Miscellaneous (Other)</lang>
+<lang t="moh">Mohawk</lang>
+<lang t="mol" c1="mo">Moldavian</lang>
+<lang t="mkh">Mon-Kmer (Other)</lang>
+<lang t="lol">Mongo</lang>
+<lang t="mon" c1="mn">Mongolian</lang>
+<lang t="mos">Mossi</lang>
+<lang t="mul">Multiple languages</lang>
+<lang t="mun">Munda languages</lang>
+<lang t="nau" c1="na">Nauru</lang>
+<lang t="nav">Navajo</lang>
+<lang t="nde">Ndebele, North</lang>
+<lang t="nbl">Ndebele, South</lang>
+<lang t="ndo">Ndongo</lang>
+<lang t="nep" c1="ne">Nepali</lang>
+<lang t="new">Newari</lang>
+<lang t="nic">Niger-Kordofanian (Other)</lang>
+<lang t="ssa">Nilo-Saharan (Other)</lang>
+<lang t="niu">Niuean</lang>
+<lang t="non">Norse, Old</lang>
+<lang t="nai">North American Indian (Other)</lang>
+<lang t="nor" c1="no">Norwegian</lang>
+<lang t="nno">Norwegian (Nynorsk)</lang>
+<lang t="nub">Nubian languages</lang>
+<lang t="nym">Nyamwezi</lang>
+<lang t="nya">Nyanja</lang>
+<lang t="nyn">Nyankole</lang>
+<lang t="nyo">Nyoro</lang>
+<lang t="nzi">Nzima</lang>
+<lang t="oji">Ojibwa</lang>
+<lang t="ori" c1="or">Oriya</lang>
+<lang t="orm" c1="om">Oromo</lang>
+<lang t="osa">Osage</lang>
+<lang t="oss">Ossetic</lang>
+<lang t="oto">Otomian languages</lang>
+<lang t="pal">Pahlavi</lang>
+<lang t="pau">Palauan</lang>
+<lang t="pli">Pali</lang>
+<lang t="pam">Pampanga</lang>
+<lang t="pag">Pangasinan</lang>
+<lang t="pan" c1="pa">Panjabi</lang>
+<lang t="pap">Papiamento</lang>
+<lang t="paa">Papuan-Australian (Other)</lang>
+<lang t="fas" b="per" c1="fa">Persian</lang>
+<lang t="peo">Persian, Old (ca 600 - 400 B.C.)</lang>
+<lang t="phn">Phoenician</lang>
+<lang t="pol" c1="pl">Polish</lang>
+<lang t="pon">Ponape</lang>
+<lang t="por" c1="pt">Portuguese</lang>
+<lang t="pra">Prakrit languages</lang>
+<lang t="pro">Provencal, Old (to 1500)</lang>
+<lang t="pus" c1="ps">Pushto</lang>
+<lang t="que" c1="qu">Quechua</lang>
+<lang t="roh" c1="rm">Rhaeto-Romance</lang>
+<lang t="raj">Rajasthani</lang>
+<lang t="rar">Rarotongan</lang>
+<lang t="roa">Romance (Other)</lang>
+<lang t="ron" b="rum" c1="ro">Romanian</lang>
+<lang t="rom">Romany</lang>
+<lang t="run" c1="rn">Rundi</lang>
+<lang t="rus" c1="ru">Russian</lang>
+<lang t="sal">Salishan languages</lang>
+<lang t="sam">Samaritan Aramaic</lang>
+<lang t="smi">Sami languages</lang>
+<lang t="smo" c1="sm">Samoan</lang>
+<lang t="sad">Sandawe</lang>
+<lang t="sag" c1="sg">Sango</lang>
+<lang t="san" c1="sa">Sanskrit</lang>
+<lang t="srd">Sardinian</lang>
+<lang t="sco">Scots</lang>
+<lang t="sel">Selkup</lang>
+<lang t="sem">Semitic (Other)</lang>
+<lang t="srp" b="scc" c1="sr">Serbian</lang>
+<lang t="hbs" c1="sh">Serbo-Croatian</lang>
+<lang t="srr">Serer</lang>
+<lang t="shn">Shan</lang>
+<lang t="sna" c1="sn">Shona</lang>
+<lang t="sid">Sidamo</lang>
+<lang t="bla">Siksika</lang>
+<lang t="snd" c1="sd">Sindhi</lang>
+<lang t="sin" c1="si">Singhalese</lang>
+<lang t="sit">Sino-Tibetan (Other)</lang>
+<lang t="sio">Siouan languages</lang>
+<lang t="sla">Slavic (Other)</lang>
+<lang t="ssw" c1="ss">Siswant</lang>
+<lang t="slk" b="slo" c1="sk">Slovak</lang>
+<lang t="slv" c1="sl">Slovenian</lang>
+<lang t="sog">Sogdian</lang>
+<lang t="som" c1="so">Somali</lang>
+<lang t="son">Songhai</lang>
+<lang t="wen">Sorbian languages</lang>
+<lang t="nso">Sotho, Northern</lang>
+<lang t="sot" c1="st">Sotho, Southern</lang>
+<lang t="sai">South American Indian (Other)</lang>
+<lang t="spa" c1="es">Spanish</lang>
+<lang t="suk">Sukuma</lang>
+<lang t="sux">Sumerian</lang>
+<lang t="sun" c1="su">Sudanese</lang>
+<lang t="sus">Susu</lang>
+<lang t="swa" c1="sw">Swahili</lang>
+<lang t="ssw">Swazi</lang>
+<lang t="swe" c1="sv">Swedish</lang>
+<lang t="syr">Syriac</lang>
+<lang t="tgl" c1="tl">Tagalog</lang>
+<lang t="tah">Tahitian</lang>
+<lang t="tgk" c1="tg">Tajik</lang>
+<lang t="tmh">Tamashek</lang>
+<lang t="tam" c1="ta">Tamil</lang>
+<lang t="tat" c1="tt">Tatar</lang>
+<lang t="tel" c1="te">Telugu</lang>
+<lang t="ter">Tereno</lang>
+<lang t="tha" c1="th">Thai</lang>
+<lang t="bod" b="tib" c1="bo">Tibetan</lang>
+<lang t="tig">Tigre</lang>
+<lang t="tir" c1="ti">Tigrinya</lang>
+<lang t="tem">Timne</lang>
+<lang t="tiv">Tivi</lang>
+<lang t="tli">Tlingit</lang>
+<lang t="tog" c1="to">Tonga (Nyasa)</lang>
+<lang t="ton">Tonga (Tonga Islands)</lang>
+<lang t="tru">Truk</lang>
+<lang t="tsi">Tsimshian</lang>
+<lang t="tso" c1="ts">Tsonga</lang>
+<lang t="tsn" c1="tn">Tswana</lang>
+<lang t="tum">Tumbuka</lang>
+<lang t="tur" c1="tr">Turkish</lang>
+<lang t="ota">Turkish, Ottoman (1500 - 1928)</lang>
+<lang t="tuk" c1="tk">Turkmen</lang>
+<lang t="tyv">Tuvinian</lang>
+<lang t="twi" c1="tw">Twi</lang>
+<lang t="uga">Ugaritic</lang>
+<lang t="uig" c1="ug">Uighur</lang>
+<lang t="ukr" c1="uk">Ukrainian</lang>
+<lang t="umb">Umbundu</lang>
+<lang t="und">Undetermined</lang>
+<lang t="urd" c1="ur">Urdu</lang>
+<lang t="uzb" c1="uz">Uzbek</lang>
+<lang t="vai">Vai</lang>
+<lang t="ven">Venda</lang>
+<lang t="vie" c1="vi">Vietnamese</lang>
+<lang t="vol" c1="vo">Volapük</lang>
+<lang t="vot">Votic</lang>
+<lang t="wak">Wakashan languages</lang>
+<lang t="wal">Walamo</lang>
+<lang t="wln" c1="wa">Walloon</lang>
+<lang t="war">Waray</lang>
+<lang t="was">Washo</lang>
+<lang t="cym" b="wel" c1="cy">Welsh</lang>
+<lang t="wol" c1="wo">Wolof</lang>
+<lang t="xho" c1="xh">Xhosa</lang>
+<lang t="sah">Yakut</lang>
+<lang t="yao">Yao</lang>
+<lang t="yap">Yap</lang>
+<lang t="yid" c1="yi">Yiddish</lang>
+<lang t="yor" c1="yo">Yoruba</lang>
+<lang t="zap">Zapotec</lang>
+<lang t="zen">Zenaga</lang>
+<lang t="zha" c1="za">Zhuang</lang>
+<lang t="zul" c1="zu">Zulu</lang>
+<lang t="zun">Zuni</lang>
+</langs>
