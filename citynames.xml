@@ -256,7 +256,7 @@
     <altname l="por">Alicante</altname>
     <altname l="ron">Alicante</altname>
     <altname l="spa">Alicante</altname>
-    <altname l="Ladino">Alikante</altname>
+    <altname l="lad">Alikante</altname>
     <altname l="lit">Alikantė</altname>
     <altname l="lav">Alikante</altname>
     <altname l="epo">Alakanto</altname>
@@ -309,8 +309,8 @@
     <altname a="cyrillic" l="srp">Амстердам</altname>
     <altname l="ukr">Amsterdam</altname>
     <altname a="cyrillic" l="ukr">Амстердам</altname>
-    <altname l="Belarussian">Amstyerdam</altname>
-    <altname a="cyrillic" l="Belarussian">Амстэрдам</altname>
+    <altname l="bel">Amstyerdam</altname>
+    <altname a="cyrillic" l="bel">Амстэрдам</altname>
     <altname l="spa">Ámsterdam</altname>
     <altname l="lav">Amsterdama</altname>
     <altname l="lit">Amsterdamas</altname>
@@ -323,8 +323,8 @@
     <altname l="yid">Groot-Mokum</altname>
     <altname l="ell">Amsterntam</altname>
     <altname a="greek" l="ell">Άμστερνταμ</altname>
-    <altname l="Korean">Amseutereudam</altname>
-    <altname a="korean" l="Korean">암스테르담</altname>
+    <altname l="kor">Amseutereudam</altname>
+    <altname a="korean" l="kor">암스테르담</altname>
     <altname l="heb">Amsterdam</altname>
     <altname a="hebrew" l="heb">אמסטרדם</altname>
   </city>
@@ -429,7 +429,7 @@
     <altname l="deu">Arnheim</altname>
     <altname l="nld">Arnhem</altname>
     <altname l="pol">Arnhem</altname>
-    <altname l="Frisian">Arnhim</altname>
+    <altname l="fry">Arnhim</altname>
     <altname l="lav">Ārnhema</altname>
     <altname l="mak">Arnhem</altname>
     <altname a="cyrillic" l="mak">Арнхем</altname>
@@ -526,8 +526,8 @@
     <altname l="mak">Atina</altname>
     <altname a="cyrillic" l="mak">Атина</altname>
     <altname l="tur">Atina</altname>
-    <altname l="Korean">Atene</altname>
-    <altname a="korean" l="Korean">아테네</altname>
+    <altname l="kor">Atene</altname>
+    <altname a="korean" l="kor">아테네</altname>
     <altname l="heb">Atuna</altname>
     <altname a="hebrew" l="heb">אתונה</altname>
     <altname a="simplifiedchinese" l="zho">Yadian</altname>
@@ -730,15 +730,15 @@
   <city id="Bath">
     <altname l="eng">Bath</altname>
     <altname l="lat">Aquae Sulis</altname>
-    <altname l="Anglo-Saxon">Baðon</altname>
+    <altname l="ang">Baðon</altname>
     <altname l="cym">Caerfaddon</altname>
   </city>
   <city id="Bautzen">
     <altname l="eng">Bautzen</altname>
-    <altname l="Upper Sorbian">Budyšin</altname>
+    <altname l="hsb">Budyšin</altname>
     <altname l="ces">Budyšín</altname>
     <altname l="slk">Budyšín</altname>
-    <altname l="Lower Sorbian">Budyšyn</altname>
+    <altname l="dsb">Budyšyn</altname>
     <altname l="pol">Budziszyn</altname>
     <altname l="mak">Baucen</altname>
     <altname a="cyrillic" l="mak">Бауцен</altname>
@@ -766,7 +766,7 @@
   <city id="Belfast">
     <altname l="eng">Belfast</altname>
     <altname l="gai">Béal Feirste</altname>
-    <altname l="Lituanian">Belfastas</altname>
+    <altname l="lit">Belfastas</altname>
     <altname l="lav">Belfāsta</altname>
     <altname l="cym">Belffast</altname>
     <altname l="lat">Belfastium</altname>
@@ -845,7 +845,7 @@
     <altname l="fra">Bellinzone</altname>
     <altname l="mak">Belincona</altname>
     <altname a="cyrillic" l="mak">Белинцона</altname>
-    <altname s="old" l="Swiss German">Bellenz</altname>
+    <altname s="old" l="gsw">Bellenz</altname>
   </city>
   <city id="Berat">
     <altname l="eng">Berat</altname>
@@ -884,7 +884,7 @@
   <city id="Berlin" country="DE">
     <altname l="eng">Berlin</altname>
     <altname l="ara">Barlīn</altname>
-    <altname l="Lower Sorbian">Barliń</altname>
+    <altname l="dsb">Barliń</altname>
     <altname l="gai">Beirlín</altname>
     <altname l="lim">Berlien</altname>
     <altname l="est">Berliin</altname>
@@ -919,14 +919,14 @@
     <altname l="ita">Berlino</altname>
     <altname l="epo">Berlino</altname>
     <altname l="afr">Berlyn</altname>
-    <altname l="Frisian">Berlyn</altname>
+    <altname l="fry">Berlyn</altname>
     <altname l="lit">Berlynas</altname>
     <altname l="jpn">Berurin</altname>
     <altname a="japanese" l="jpn">ベルリン</altname>
     <altname l="ell">Verolíno</altname>
     <altname a="greek" l="ell">Βερολίνο</altname>
-    <altname l="Korean">Bereullin</altname>
-    <altname a="korean" l="Korean">베를린</altname>
+    <altname l="kor">Bereullin</altname>
+    <altname a="korean" l="kor">베를린</altname>
     <altname l="heb">Berlin</altname>
     <altname a="hebrew" l="heb">ברלין</altname>
   </city>
@@ -1086,7 +1086,7 @@
     <altname a="cyrillic" l="bul">Битоля</altname>
     <altname l="tur">Manastır</altname>
     <altname l="sqi">Monastir</altname>
-    <altname l="Ladino">Monastir</altname>
+    <altname l="lad">Monastir</altname>
     <altname s="former" p="1400-1912" l="eng">Monastir</altname>
     <altname a="greek" l="ell">Μοναστήρι</altname>
     <altname l="ell">Monastiri</altname>
@@ -1156,7 +1156,7 @@
     <altname l="deu">Bordeaux</altname>
     <altname l="ron">Bordeaux</altname>
     <altname l="swe">Bordeaux</altname>
-    <altname l="Gascon">Bordèu</altname>
+    <altname l="gsc">Bordèu</altname>
     <altname l="oci">Bordèu</altname>
     <altname l="pro">Bordèu</altname>
     <altname l="por">Bordéus</altname>
@@ -1171,8 +1171,8 @@
     <altname l="spa">Burdeos</altname>
     <altname l="eus">Bordele</altname>
     <altname l="lat">Burdigala</altname>
-    <altname l="Korean">Boreudo</altname>
-    <altname a="korean" l="Korean">보르도</altname>
+    <altname l="kor">Boreudo</altname>
+    <altname a="korean" l="kor">보르도</altname>
     <altname l="heb">Bordo</altname>
     <altname a="hebrew" l="heb">בורדו</altname>
   </city>
@@ -1216,8 +1216,8 @@
     <altname l="afr">Bozen</altname>
     <altname l="nld">Bozen</altname>
     <altname l="deu">Bozen</altname>
-    <altname l="Ladin">Bulsan</altname>
-    <altname l="Ladin">Balsan</altname>
+    <altname l="lld">Bulsan</altname>
+    <altname l="lld">Balsan</altname>
     <altname l="fur">Bolğan</altname>
     <altname l="fur">Bolzan</altname>
     <altname l="roh">Bulsaun</altname>
@@ -1232,7 +1232,7 @@
     <altname l="lit">Bocenas</altname>
     <altname l="lav">Bolcāno</altname>
     <altname a="cyrillic" l="rus">Больцано</altname>
-    <altname a="cyrillic" l="Belarussian">Бaльцанa</altname>
+    <altname a="cyrillic" l="bel">Бaльцанa</altname>
     <altname l="mak">Bolcano</altname>
     <altname a="cyrillic" l="mak">Болцано</altname>
   </city>
@@ -1240,7 +1240,7 @@
     <altname l="eng">Braniewo</altname>
     <altname l="pol">Braniewo</altname>
     <altname l="deu">Braunsberg</altname>
-    <altname s="old" l="Prussian">Brus</altname>
+    <altname s="old" l="prg">Brus</altname>
     <altname l="mak">Branievo</altname>
     <altname a="cyrillic" l="mak">Браниево</altname>
   </city>
@@ -1333,7 +1333,7 @@
     <altname l="dan">Bremen</altname>
     <altname l="nld">Bremen</altname>
     <altname l="est">Bremen</altname>
-    <altname l="Frisian">Bremen</altname>
+    <altname l="fry">Bremen</altname>
     <altname l="deu">Bremen</altname>
     <altname l="nds">Bremen</altname>
     <altname l="por">Bremen</altname>
@@ -1699,7 +1699,7 @@
     <altname l="ron">Cadiz</altname>
     <altname l="lat">Gades</altname>
     <altname s="ancient" a="greek" l="ell">Γάδειρα - Gadeira</altname>
-    <altname l="Phoenician">Gadir</altname>
+    <altname l="phn">Gadir</altname>
     <altname l="pol">Kadyks</altname>
     <altname l="srp">Kadiz</altname>
     <altname l="ara">al-Qādis</altname>
@@ -1754,7 +1754,8 @@
   <city id="Canterbury" country="GB">
     <altname l="eng">Canterbury</altname>
     <altname a="chinese" l="zho">坎特貝雷</altname>
-    <altname l="Saxon">Caer-Cant</altname>
+    <altname l="ang">Cantwarebyrig</altname>
+    <altname l="osx">Caer-Cant</altname>
     <altname l="cym">Caergaint</altname>
     <altname l="fra">Cantorbéry</altname>
     <altname s="medieval" l="lat">Cantuaria</altname>
@@ -1898,7 +1899,7 @@
     <altname l="fin">Chemnitz</altname>
     <altname l="ron">Chemnitz</altname>
     <altname c="traditional, not used anymore" s="old" l="pol">Kamienica Saska</altname>
-    <altname l="Sorbian">Kamjenica</altname>
+    <altname l="wen">Kamjenica</altname>
     <altname l="ces">Saská Kamenice</altname>
     <altname s="former" p="1953-1990" l="deu">Karl-Marx-Stadt</altname>
   </city>
@@ -2310,7 +2311,7 @@
   <city id="Cottbus">
     <altname l="eng">Cottbus</altname>
     <altname l="pol">Chociebuż</altname>
-    <altname l="Sorbian">Chóśebuz</altname>
+    <altname l="wen">Chóśebuz</altname>
     <altname l="ces">Chotěbuz</altname>
     <altname l="deu">Cottbus</altname>
   </city>
@@ -2325,7 +2326,7 @@
     <altname l="fin">Daugavpils</altname>
     <altname l="lav">Daugavpils</altname>
     <altname l="ron">Daugavpils</altname>
-    <altname l="Latgalian">Daugpiļs</altname>
+    <altname l="ltg">Daugpiļs</altname>
     <altname l="bel">Dźvinsk</altname>
     <altname a="cyrillic" l="bel">Дзьвінск</altname>
     <altname l="lit">Daugpilis</altname>
@@ -2354,7 +2355,7 @@
     <altname l="hun">Debrecen</altname>
     <altname l="fin">Debrecen</altname>
     <altname l="ces">Debrecín</altname>
-    <altname l="Bosnian">Debrecin</altname>
+    <altname l="bos">Debrecin</altname>
     <altname l="hrv">Debrecin</altname>
     <altname l="srp">Debrecin</altname>
     <altname a="cyrillic" l="srp">Дeбрецин</altname>
@@ -2369,7 +2370,7 @@
     <altname l="fra">Bois-le-Duc</altname>
     <altname l="spa">Bolduque</altname>
     <altname s="former" l="ita">Boscoducale</altname>
-    <altname l="Frisian">Den Bos</altname>
+    <altname l="fry">Den Bos</altname>
     <altname l="nld">s-Hertogenbosch</altname>
     <altname l="deu">Herzogenbusch</altname>
     <altname l="lim">De Bos(j)</altname>
@@ -2431,7 +2432,7 @@
   <city id="Drachhausen">
     <altname l="eng">Drachhausen</altname>
     <altname l="deu">Drachhausen</altname>
-    <altname l="Lower Sorbian">Hochoza</altname>
+    <altname l="dsb">Hochoza</altname>
   </city>
   <city id="Dresden" country="DE">
     <altname l="eng">Dresden</altname>
@@ -2456,7 +2457,7 @@
     <altname l="lit">Drezdenas</altname>
     <altname l="lav">Drezdene</altname>
     <altname l="pol">Drezno</altname>
-    <altname l="Lower Sorbian">Drježdźany</altname>
+    <altname l="dsb">Drježdźany</altname>
     <altname l="heb">Drezden</altname>
     <altname a="hebrew" l="heb">דרזדן</altname>
   </city>
@@ -2532,7 +2533,7 @@
     <altname l="pol">Dubrownik</altname>
     <altname l="ell">Ragoúsa</altname>
     <altname a="greek" l="ell">Ραγούσα</altname>
-    <altname l="Ottoman Turkish">Raguza</altname>
+    <altname l="ota">Raguza</altname>
     <altname l="heb">Dubrovnik</altname>
     <altname a="hebrew" l="heb">דוברובניק</altname>
   </city>
@@ -2643,7 +2644,7 @@
     <altname l="srp">Jedrine</altname>
     <altname l="bul">Odrin</altname>
     <altname l="mak">Odrin</altname>
-    <altname l="Thracian">Uskudama</altname>
+    <altname l="txh">Uskudama</altname>
     <altname l="sqi">Εdrene</altname>
   </city>
   <city id="Eger">
@@ -2668,7 +2669,7 @@
     <altname l="pol">Elbląg</altname>
     <altname l="deu">Elbing</altname>
     <altname s="old" l="dan">Ilfing</altname>
-    <altname s="old" l="Prussian">Truso</altname>
+    <altname s="old" l="prg">Truso</altname>
   </city>
   <city id="Ełk" country="PL">
     <altname l="eng">Ełk</altname>
@@ -2795,7 +2796,7 @@
     <altname l="lim">Frankfort aan de Main</altname>
     <altname l="deu">Frankfurt am Main</altname>
     <altname l="hrv">Frankfurt na Majni</altname>
-    <altname l="Bosnian">Frankfurt na Majni</altname>
+    <altname l="bos">Frankfurt na Majni</altname>
     <altname l="Montenegrin">Frankfurt na Majni</altname>
     <altname l="srp">Frankfurt na Majni</altname>
     <altname l="slv">Frankfurt na Majni</altname>
@@ -2826,7 +2827,7 @@
     <altname l="ces">Frankfurt nad Odrou</altname>
     <altname l="tur">(Oder Kıyısında ki) Frankfurt</altname>
     <altname l="hrv">Frankfurt na Odri</altname>
-    <altname l="Bosnian">Frankfurt na Odri</altname>
+    <altname l="bos">Frankfurt na Odri</altname>
     <altname l="Montenegrin">Frankfurt na Odri</altname>
     <altname l="srp">Frankfurt na Odri</altname>
     <altname l="slv">Frankfurt na Odri</altname>
@@ -2912,7 +2913,7 @@
     <altname l="lat">Gedania</altname>
     <altname l="lat">Dantiscum</altname>
     <altname l="hrv">Gdanjsk</altname>
-    <altname l="Bosnian">Gdanjsk</altname>
+    <altname l="bos">Gdanjsk</altname>
     <altname l="Montenegrin">Gdanjsk</altname>
     <altname l="srp">Gdanjsk</altname>
     <altname l="ces">Gdaňsk</altname>
@@ -2921,7 +2922,7 @@
     <altname l="tur">Gdansk</altname>
     <altname l="lav">Gdaņska</altname>
     <altname l="lit">Gdanskas</altname>
-    <altname l="Cymraeg">Gydanysg</altname>
+    <altname l="cym">Gydanysg</altname>
     <altname l="heb">Gdansk</altname>
     <altname a="hebrew" l="heb">גדנסק</altname>
     <altname a="cyrillic" l="rus">Гданьск</altname>
@@ -3122,7 +3123,7 @@
   <city id="Gorizia">
     <altname l="eng">Gorizia</altname>
     <altname l="hrv">Gorica</altname>
-    <altname l="Bosnian">Gorica</altname>
+    <altname l="bos">Gorica</altname>
     <altname l="Montenegrin">Gorica</altname>
     <altname l="ron">Gorica</altname>
     <altname l="slv">Gorica</altname>
@@ -3142,7 +3143,7 @@
     <altname l="ron">Görlitz</altname>
     <altname l="pol">Zgorzelec</altname>
     <altname l="ces">Zhořelec</altname>
-    <altname l="Upper Sorbian">Zhorjelc</altname>
+    <altname l="hsb">Zhorjelc</altname>
   </city>
   <city id="Gorzów Wielkopolski">
     <altname l="eng">Gorzów Wielkopolski</altname>
@@ -3246,7 +3247,7 @@
   <city id="Groningen (city)">
     <altname l="eng">Groningen (city)</altname>
     <altname l="lim">Greuninge</altname>
-    <altname l="Frisian">Grins</altname>
+    <altname l="fry">Grins</altname>
     <altname l="ita">Groninga</altname>
     <altname l="por">Groninga</altname>
     <altname l="spa">Groninga</altname>
@@ -3430,8 +3431,8 @@
     <altname a="cyrillic" l="bel">Хельсынкі</altname>
     <altname l="ell">Elsínki</altname>
     <altname a="greek" l="ell">Ελσίνκι</altname>
-    <altname l="Mandarin Chinese">Hè ěr xīn jī</altname>
-    <altname l="Mandarin Chinese">赫尔辛基</altname>
+    <altname l="cmn">Hè ěr xīn jī</altname>
+    <altname l="cmn">赫尔辛基</altname>
     <altname l="gai">Heilsincí</altname>
     <altname l="dan">Helsingfors</altname>
     <altname l="nor">Helsingfors</altname>
@@ -3440,8 +3441,8 @@
     <altname s="former" l="lat">Helsingforsia</altname>
     <altname l="est">Helsingi</altname>
     <altname l="lat">Helsingia</altname>
-    <altname l="Korean">Helsingk'i</altname>
-    <altname a="korean" l="Korean">헬싱키</altname>
+    <altname l="kor">Helsingk'i</altname>
+    <altname a="korean" l="kor">헬싱키</altname>
     <altname l="rus">Hel'sinki</altname>
     <altname a="cyrillic" l="rus">Хельсинки</altname>
     <altname l="ukr">Hel'sinki</altname>
@@ -3508,7 +3509,7 @@
   <city id="Hoyerswerda">
     <altname l="eng">Hoyerswerda</altname>
     <altname l="deu">Hoyerswerda</altname>
-    <altname l="Sorbian">Wojerecy</altname>
+    <altname l="wen">Wojerecy</altname>
   </city>
   <city id="Hrodna">
     <altname l="eng">Hrodna</altname>
@@ -3584,7 +3585,7 @@
   <city id="Ioannina">
     <altname l="eng">Ioannina</altname>
     <altname l="ita">Giannina</altname>
-    <altname l="Aromanian">Ianina</altname>
+    <altname l="rup">Ianina</altname>
     <altname l="ron">Ianina</altname>
     <altname l="fin">Ioannina</altname>
     <altname l="ell">Ioánnina</altname>
@@ -3649,7 +3650,7 @@
     <altname s="former" p="330-1930" l="swe">Konstantinopel</altname>
     <altname s="former" p="330-1930" l="isl">Konstantínópel</altname>
     <altname s="former" p="330-1930" l="fin">Konstantinopoli</altname>
-    <altname s="medieval" l="Norse">Mikligarðr</altname>
+    <altname s="medieval" l="non">Mikligarðr</altname>
     <altname s="medieval" l="swe">Miklagord</altname>
     <altname s="former" l="heb">Qushta</altname>
     <altname s="former" a="hebrew" l="heb">קושטא</altname>
@@ -3779,7 +3780,7 @@
   <city id="Kamenz">
     <altname l="eng">Kamenz</altname>
     <altname l="deu">Kamenz</altname>
-    <altname l="Upper Sorbian">Kamjenc</altname>
+    <altname l="hsb">Kamjenc</altname>
   </city>
   <city id="Kamianets-Podilskyi">
     <altname l="eng">Kamianets-Podilskyi</altname>
@@ -3972,7 +3973,7 @@
   </city>
   <city id="Kırklareli">
     <altname l="eng">Kırklareli</altname>
-    <altname s="former" l="Ottoman Turkish">Kırkkilise</altname>
+    <altname s="former" l="ota">Kırkkilise</altname>
     <altname l="tur">Kırklareli</altname>
     <altname l="bul">Lozengrad</altname>
     <altname l="ell">Saranta Ekklisyes</altname>
@@ -4023,7 +4024,7 @@
   </city>
   <city id="Kolkwitz">
     <altname l="eng">Kolkwitz</altname>
-    <altname l="Lower Sorbian">Gołkojce</altname>
+    <altname l="dsb">Gołkojce</altname>
     <altname l="deu">Kolkwitz (Niederlausitz)</altname>
   </city>
   <city id="Kolomyya">
@@ -4290,7 +4291,7 @@
     <altname l="eng">Leeuwarden</altname>
     <altname l="nld">Leeuwarden</altname>
     <altname l="fin">Leeuwarden</altname>
-    <altname l="Frisian">Ljouwert</altname>
+    <altname l="fry">Ljouwert</altname>
     <altname l="Town Frisian">Liwwarden</altname>
     <altname l="lim">Liewarde</altname>
   </city>
@@ -4344,7 +4345,7 @@
     <altname a="greek" l="ell">Λειψία</altname>
     <altname l="ita">Lipsia</altname>
     <altname l="por">Lípsia</altname>
-    <altname l="Lower Sorbian">Lipsk</altname>
+    <altname l="dsb">Lipsk</altname>
     <altname l="pol">Lipsk</altname>
     <altname l="ces">Lipsko</altname>
     <altname l="slk">Lipsko</altname>
@@ -4580,7 +4581,7 @@
   <city id="Löbau">
     <altname l="eng">Löbau</altname>
     <altname l="deu">Löbau</altname>
-    <altname l="Upper Sorbian">Lubij</altname>
+    <altname l="hsb">Lubij</altname>
     <altname l="pol">Lubiniec</altname>
   </city>
   <city id="London">
@@ -4616,11 +4617,11 @@
     <altname l="slk">Londýn</altname>
     <altname l="fin">Lontoo</altname>
     <altname l="cor">Loundres</altname>
-    <altname l="Anglo-Saxon">Lundenwic</altname>
+    <altname l="ang">Lundenwic</altname>
     <altname l="isl">Lundúnir</altname>
     <altname l="gla">Lunnainn</altname>
-    <altname l="Korean">Reondeon</altname>
-    <altname a="korean" l="Korean">런던</altname>
+    <altname l="kor">Reondeon</altname>
+    <altname a="korean" l="kor">런던</altname>
     <altname l="jpn">Rondon</altname>
     <altname a="japanese" l="jpn">ロンドン</altname>
     <altname l="Vietnamese">Luân Đôn</altname>
@@ -4655,13 +4656,13 @@
   <city id="Lübben">
     <altname l="eng">Lübben</altname>
     <altname l="deu">Lübben</altname>
-    <altname l="Lower Sorbian">Lubin</altname>
+    <altname l="dsb">Lubin</altname>
     <altname l="pol">Lubin</altname>
   </city>
   <city id="Lübbenau">
     <altname l="eng">Lübbenau</altname>
     <altname l="deu">Lübbenau</altname>
-    <altname l="Lower Sorbian">Lubnjow</altname>
+    <altname l="dsb">Lubnjow</altname>
   </city>
   <city id="Lübeck">
     <altname l="eng">Lübeck</altname>
@@ -4765,7 +4766,7 @@
     <altname l="ukr">Ljuksemburh</altname>
     <altname l="ces">Lucemburk</altname>
     <altname l="gai">Lucsamburg</altname>
-    <altname l="Frisian">Luksemboarch</altname>
+    <altname l="fry">Luksemboarch</altname>
     <altname l="hrv">Luksemburg</altname>
     <altname l="mak">Luksemburg</altname>
     <altname l="pol">Luksemburg</altname>
@@ -5744,7 +5745,7 @@
   <city id="Opatija">
     <altname l="eng">Opatija</altname>
     <altname l="ita">Abbazia</altname>
-    <altname l="Bosnian">Opatija</altname>
+    <altname l="bos">Opatija</altname>
     <altname l="hrv">Opatija</altname>
     <altname l="Montenegrin">Opatija</altname>
     <altname l="srp">Opatija</altname>
@@ -5794,7 +5795,7 @@
     <altname l="hun">Eszék</altname>
     <altname s="former" l="deu">Esseg</altname>
     <altname l="lat">Mursa</altname>
-    <altname l="Bosnian">Osijek</altname>
+    <altname l="bos">Osijek</altname>
     <altname l="hrv">Osijek</altname>
     <altname l="ces">Osijek</altname>
     <altname l="nld">Osijek</altname>
@@ -6332,7 +6333,7 @@
   <city id="Potsdam">
     <altname l="eng">Potsdam</altname>
     <altname a="chinese" l="zho">波茨坦</altname>
-    <altname l="Lower Sorbian">Podstupim</altname>
+    <altname l="dsb">Podstupim</altname>
     <altname l="ces">Postupim</altname>
     <altname l="slk">Postupim</altname>
     <altname l="nld">Potsdam</altname>
@@ -6372,7 +6373,7 @@
     <altname l="ara">Birāġ</altname>
     <altname l="nld">Praag</altname>
     <altname l="lim">Praag</altname>
-    <altname l="Bosnian">Prag</altname>
+    <altname l="bos">Prag</altname>
     <altname l="hrv">Prag</altname>
     <altname l="dan">Prag</altname>
     <altname l="deu">Prag</altname>
@@ -6893,7 +6894,7 @@
     <altname l="ron">Saraievo</altname>
     <altname l="ara">Sarāyīfū</altname>
     <altname l="hrv">Sarajevo</altname>
-    <altname l="Bosnian">Sarajevo</altname>
+    <altname l="bos">Sarajevo</altname>
     <altname l="fin">Sarajevo</altname>
     <altname l="por">Sarajevo</altname>
     <altname l="srp">Sarajevo</altname>
@@ -6939,7 +6940,7 @@
     <altname l="cos">Sassari</altname>
     <altname l="fin">Sassari</altname>
     <altname l="ita">Sassari</altname>
-    <altname l="Sassarese">Sassari</altname>
+    <altname l="sdc">Sassari</altname>
     <altname l="src">Tattari</altname>
   </city>
   <city id="Saverne">
@@ -6958,7 +6959,7 @@
   <city id="Schmogrow">
     <altname l="eng">Schmogrow</altname>
     <altname l="deu">Schmogrow</altname>
-    <altname l="Lower Sorbian">Smogorjow</altname>
+    <altname l="dsb">Smogorjow</altname>
   </city>
   <city id="Schweinfurt">
     <altname l="eng">Schweinfurt</altname>
@@ -7171,7 +7172,7 @@
     <altname l="srp">Skoplje</altname>
     <altname l="hrv">Skoplje</altname>
     <altname l="ara">Skūbyī</altname>
-    <altname l="Ottoman Turkish">Uskub</altname>
+    <altname l="ota">Uskub</altname>
     <altname l="tur">Üsküp</altname>
     <altname l="lit">Skopjė</altname>
     <altname l="hun">Szkopje</altname>
@@ -7318,7 +7319,7 @@
   </city>
   <city id="Spremberg">
     <altname l="eng">Spremberg</altname>
-    <altname l="Lower Sorbian">Grodk</altname>
+    <altname l="dsb">Grodk</altname>
     <altname l="deu">Spremberg</altname>
   </city>
   <city id="St. Gallen">
@@ -7776,10 +7777,10 @@
     <altname l="ell">Raidestos</altname>
     <altname l="ell">Rhaedestus</altname>
     <altname l="ell">Visanthii</altname>
-    <altname s="old" l="Ottoman Turkish">Rodosçuk</altname>
+    <altname s="old" l="ota">Rodosçuk</altname>
     <altname l="lat">Rodosto</altname>
     <altname l="hun">Rodostó</altname>
-    <altname s="old" l="Ottoman Turkish">Tekfurdağı</altname>
+    <altname s="old" l="ota">Tekfurdağı</altname>
     <altname l="tur">Tekirdağ</altname>
   </city>
   <city id="Tempio Pausania">
@@ -7801,7 +7802,7 @@
     <altname l="eng">The Hague</altname>
     <altname l="ita">L'Aia</altname>
     <altname l="rus">Gaaga</altname>
-    <altname l="Frisian">De Haach</altname>
+    <altname l="fry">De Haach</altname>
     <altname l="nld">s-Gravenhage</altname>
     <altname l="hrv">Haag</altname>
     <altname l="ces">Haag</altname>
@@ -7851,7 +7852,7 @@
     <altname l="lav">Saloniki</altname>
     <altname l="pol">Saloniki</altname>
     <altname l="ell">Saloniki</altname>
-    <altname l="Aromanian">Săruna</altname>
+    <altname l="rup">Săruna</altname>
     <altname l="tur">Selanik</altname>
     <altname l="bul">Solun</altname>
     <altname l="hrv">Solun</altname>
@@ -8237,7 +8238,7 @@
   <city id="Utrecht">
     <altname l="eng">Utrecht</altname>
     <altname l="lat">Traiectum</altname>
-    <altname l="Frisian">Utert</altname>
+    <altname l="fry">Utert</altname>
     <altname l="afr">Utrecht</altname>
     <altname l="ind">Utrecht</altname>
     <altname l="nld">Utrecht</altname>

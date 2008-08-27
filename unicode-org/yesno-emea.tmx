@@ -15,7 +15,6 @@ o-tmf="utf-8"
 </header>
 <body>
 <tu>
-  <tuv xml:lang="en"> <seg>No</seg></tuv>
   <tuv xml:lang="ar"> <seg>لا</seg></tuv>
   <tuv xml:lang="be"> <seg>Не</seg></tuv>
   <tuv xml:lang="bg"> <seg>не</seg></tuv>
@@ -23,6 +22,7 @@ o-tmf="utf-8"
   <tuv xml:lang="cs"> <seg>NE</seg></tuv>
   <tuv xml:lang="da"> <seg>Nej</seg></tuv>
   <tuv xml:lang="de"> <seg>Nein</seg></tuv>
+  <tuv xml:lang="en"> <seg>No</seg></tuv>
   <tuv xml:lang="el"> <seg>Όχι</seg></tuv>
   <tuv xml:lang="es"> <seg>No</seg></tuv>
   <tuv xml:lang="et"> <seg>ei</seg></tuv>

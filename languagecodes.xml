@@ -51,6 +51,7 @@
 <lang t="bik">Bikol</lang>
 <lang t="bin">Bini</lang>
 <lang t="bis" c1="bi">Bislama</lang>
+<lang t="bos" c1="bs">Bosnian</lang>
 <lang t="bra">Braj</lang>
 <lang t="bre" c1="be">Breton</lang>
 <lang t="bug">Buginese</lang>
@@ -131,6 +132,7 @@
 <lang t="gla" c1="gd">Gaelic (Scots)</lang>
 <lang t="glg" c1="gl">Galician</lang>
 <lang t="lug">Ganda</lang>
+<lang t="gsc">Gascon</lang>
 <lang t="gay">Gayo</lang>
 <lang t="gez">Geez</lang>
 <lang b="geo" t="kat" c1="ka">Georgian</lang>
@@ -210,11 +212,13 @@
 <lang t="kru">Kurukh</lang>
 <lang t="kus">Kusaie</lang>
 <lang t="kut">Kutenai</lang>
+<lang t="lld">Ladin</lang>
 <lang t="lad">Ladino</lang>
 <lang t="lah">Lahnda</lang>
 <lang t="lam">Lamba</lang>
 <lang t="oci" c1="oc">Occitan</lang>
 <lang t="lao" c1="lo">Lao</lang>
+<lang t="ltg" c1="la">Latgalian</lang> <!-- ltg is unofficial -->
 <lang t="lat" c1="la">Latin</lang>
 <lang t="lav" c1="lv">Latvian</lang>
 <lang t="ltz" c1="lb">Luxembourgish</lang>
@@ -229,6 +233,7 @@
 <lang t="lun">Lunda</lang>
 <lang t="luo">Luo (Kenya and Tanzania)</lang>
 <lang b="mac" t="mak" c1="mk">Macedonian</lang>
+<lang t="rup">Macedo Romanian</lang>
 <lang t="mad">Madurese</lang>
 <lang t="mag">Magahi</lang>
 <lang t="mai">Maithili</lang>
@@ -237,6 +242,7 @@
 <lang b="may" t="msa" c1="ms">Malay</lang>
 <lang t="mal">Malayalam</lang>
 <lang t="mlt" c1="ml">Maltese</lang>
+<lang t="cmn">Mandarin Chinese</lang>
 <lang t="man">Mandingo</lang>
 <lang t="mni">Manipuri</lang>
 <lang t="mno">Manobo languages</lang>
@@ -281,6 +287,7 @@
 <lang t="nyo">Nyoro</lang>
 <lang t="nzi">Nzima</lang>
 <lang t="oji">Ojibwa</lang>
+<lang t="osx">Old Saxon</lang>
 <lang t="ori" c1="or">Oriya</lang>
 <lang t="orm" c1="om">Oromo</lang>
 <lang t="osa">Osage</lang>
@@ -302,6 +309,7 @@
 <lang t="por" c1="pt">Portuguese</lang>
 <lang t="pra">Prakrit languages</lang>
 <lang t="pro">Provencal, Old (to 1500)</lang>
+<lang t="prg">Old Prussian</lang>
 <lang t="pus" c1="ps">Pushto</lang>
 <lang t="que" c1="qu">Quechua</lang>
 <lang t="roh" c1="rm">Rhaeto-Romance</lang>
@@ -319,6 +327,7 @@
 <lang t="sad">Sandawe</lang>
 <lang t="sag" c1="sg">Sango</lang>
 <lang t="san" c1="sa">Sanskrit</lang>
+<lang t="sdc">Sassarese</lang>
 <lang t="srd">Sardinian</lang>
 <lang t="sco">Scots</lang>
 <lang t="sel">Selkup</lang>
@@ -342,6 +351,8 @@
 <lang t="som" c1="so">Somali</lang>
 <lang t="son">Songhai</lang>
 <lang t="wen">Sorbian languages</lang>
+<lang t="dsb">Sorbian, Lower</lang>
+<lang t="hsb">Sorbian, Upper</lang>
 <lang t="nso">Sotho, Northern</lang>
 <lang t="sot" c1="st">Sotho, Southern</lang>
 <lang t="sai">South American Indian (Other)</lang>
@@ -353,6 +364,7 @@
 <lang t="swa" c1="sw">Swahili</lang>
 <lang t="ssw">Swazi</lang>
 <lang t="swe" c1="sv">Swedish</lang>
+<lang t="gsw">Swiss German</lang>
 <lang t="syr">Syriac</lang>
 <lang t="tgl" c1="tl">Tagalog</lang>
 <lang t="tah">Tahitian</lang>
@@ -371,6 +383,7 @@
 <lang t="tli">Tlingit</lang>
 <lang t="tog" c1="to">Tonga (Nyasa)</lang>
 <lang t="ton">Tonga (Tonga Islands)</lang>
+<lang t="txh">Thracian</lang>
 <lang t="tru">Truk</lang>
 <lang t="tsi">Tsimshian</lang>
 <lang t="tso" c1="ts">Tsonga</lang>
