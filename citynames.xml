@@ -278,7 +278,7 @@
     <altname a="cyrillic" l2="ru" l="rus">Мстиславль</altname>
     <altname l2="lt" l="lit">Mstislavlis</altname>
   </city>
-  <city id="Amsterdam">
+  <city id="Amsterdam" country="NL">
     <altname l2="en" l="eng">Amsterdam</altname>
     <altname l="zho">Amusitedan</altname>
     <altname a="chinese" l="zho">阿姆斯特丹</altname>
@@ -1198,7 +1198,7 @@
     <altname l2="mk" l="mak">Bujon</altname>
     <altname a="cyrillic" l2="mk" l="mak">Бујон</altname>
   </city>
-  <city id="Boulogne">
+  <city id="Boulogne" country="FR">
     <altname l2="en" l="eng">Boulogne</altname>
     <altname s="old" l2="nl" l="nld">Bonen aan zee</altname>
     <altname l2="fr" l="fra">Boulogne</altname>
@@ -1319,7 +1319,7 @@
     <altname l2="mk" l="mak">Bšeclav</altname>
     <altname a="cyrillic" l2="mk" l="mak">Бшецлав</altname>
   </city>
-  <city id="Bremen">
+  <city id="Bremen" country="DE">
     <altname l2="en" l="eng">Bremen</altname>
     <altname l2="hu" l="hun">Bréma</altname>
     <altname l2="it" l="ita">Brema</altname>
@@ -1350,7 +1350,7 @@
     <altname l2="el" l="ell">Vrémi</altname>
     <altname a="greek" l2="el" l="ell">Βρέμη</altname>
   </city>
-  <city id="Bremerhaven">
+  <city id="Bremerhaven" country="DE">
     <altname l2="en" l="eng">Bremerhaven</altname>
     <altname l2="nl" l="nld">Bremerhaven</altname>
     <altname l2="de" l="deu">Bremerhaven</altname>
@@ -1390,7 +1390,7 @@
     <altname l2="lv" l="lav">Bristole</altname>
     <altname l="cym">Bryste</altname>
   </city>
-  <city id="Brno">
+  <city id="Brno" country="CZ">
     <altname l2="en" l="eng">Brno</altname>
     <altname l2="pl" l="pol">Berno Morawskie</altname>
     <altname l="rom">Brna</altname>
@@ -1449,7 +1449,7 @@
     <altname l="heb">-</altname>
     <altname a="hebrew" l="heb">ברוז</altname>
   </city>
-  <city id="Braunschweig">
+  <city id="Braunschweig" country="DE">
     <altname l2="en" l="eng">Braunschweig</altname>
     <altname l2="de" l="deu">Braunschweig</altname>
     <altname l2="sl" l="slv">Braunschweig</altname>
@@ -1626,7 +1626,7 @@
     <altname l2="sl" l="slv">Buje</altname>
     <altname l2="mk" l="mak">Buje</altname>
   </city>
-  <city id="Burg Stargard">
+  <city id="Burg Stargard" country="DE">
     <altname l2="en" l="eng">Burg Stargard</altname>
     <altname l2="de" l="deu">Burg Stargard</altname>
     <altname l2="pl" l="pol">Stargard Meklemburski</altname>
@@ -1669,7 +1669,7 @@
     <altname l="lat">Bydgostia</altname>
     <altname l2="pl" l="pol">Bydgoszcz</altname>
   </city>
-  <city id="Bytom">
+  <city id="Bytom" country="PL">
     <altname l2="en" l="eng">Bytom</altname>
     <altname l2="de" l="deu">Beuthen</altname>
     <altname l2="pl" l="pol">Bytom</altname>
@@ -1762,7 +1762,7 @@
     <altname l2="lv" l="lav">Kenterberija</altname>
     <altname l2="nl" l="nld">Kantelberg</altname>
   </city>
-  <city id="Carcassonne">
+  <city id="Carcassonne" country="FR">
     <altname l2="en" l="eng">Carcassonne</altname>
     <altname l="cat">Carcassona</altname>
     <altname l2="it" l="ita">Carcassona</altname>
@@ -3411,7 +3411,7 @@
     <altname l2="sv" l="swe">Helsingborg</altname>
     <altname s="former" l2="de" l="deu">Helsingburg</altname>
   </city>
-  <city id="Helsinki">
+  <city id="Helsinki" country="FI">
     <altname l2="en" l="eng">Helsinki</altname>
     <altname l="bel">Chielsynki</altname>
     <altname a="cyrillic" l="bel">Хельсынкі</altname>
@@ -4559,7 +4559,7 @@
     <altname l="hsb">Lubij</altname>
     <altname l2="pl" l="pol">Lubiniec</altname>
   </city>
-  <city id="London">
+  <city id="London" country="GB">
     <altname l2="en" l="eng">London</altname>
     <altname a="chinese" l="zho">倫敦</altname>
     <altname l="ara">Landan</altname>
@@ -4705,7 +4705,7 @@
     <altname l2="sr" l="srp">Luleo</altname>
     <altname l2="fi" l="fin">Luulaja</altname>
   </city>
-  <city id="Lund">
+  <city id="Lund" country="SE">
     <altname l2="en" l="eng">Lund</altname>
     <altname l2="da" l="dan">Lund</altname>
     <altname l2="sv" l="swe">Lund</altname>
@@ -4729,7 +4729,7 @@
     <altname a="cyrillic" l="ukr">Луцьк</altname>
     <altname l2="pl" l="pol">Łuck</altname>
   </city>
-  <city id="Luxembourg">
+  <city id="Luxembourg" country="LU">
     <altname l2="en" l="eng">Luxembourg</altname>
     <altname a="chinese" l="zho">盧森堡</altname>
     <altname l="ltz">Lëtzebuerg</altname>
@@ -4846,7 +4846,7 @@
     <altname l="lat">Traiectum superius</altname>
     <altname l="wln">Li Trek</altname>
   </city>
-  <city id="Madrid">
+  <city id="Madrid" country="ES">
     <altname l2="en" l="eng">Madrid</altname>
     <altname a="chinese" l="zho">馬德里</altname>
     <altname l2="el" l="ell">Madhríti</altname>
@@ -4918,7 +4918,7 @@
     <altname l2="de" l="deu">Malmedy</altname>
     <altname s="former" l2="de" l="deu">Malmünde</altname>
   </city>
-  <city id="Malmö">
+  <city id="Malmö" country="SE">
     <altname l2="en" l="eng">Malmö</altname>
     <altname s="former" l2="de" l="deu">Ellenbogen</altname>
     <altname l2="lv" l="lav">Malme</altname>
@@ -4929,7 +4929,7 @@
     <altname l2="tr" l="tur">Malmö</altname>
     <altname l="lat">Malmogia</altname>
   </city>
-  <city id="Manchester">
+  <city id="Manchester" country="GB">
     <altname l2="en" l="eng">Manchester</altname>
     <altname a="chinese" l="zho">曼彻斯特</altname>
     <altname l="cym">Manceinion</altname>
@@ -4972,7 +4972,7 @@
     <altname l2="de" l="deu">Marktredwitz</altname>
     <altname l2="cs" l="ces">Ředvice</altname>
   </city>
-  <city id="Marseille">
+  <city id="Marseille" country="FR">
     <altname l2="en" l="eng">Marseille</altname>
     <altname l2="lv" l="lav">Mareseļa</altname>
     <altname l2="fi" l="fin">Marseille</altname>
@@ -5784,7 +5784,7 @@
     <altname l="Thai">โอซีเยค</altname>
     <altname l2="pl" l="pol">Osiek</altname>
   </city>
-  <city id="Oslo">
+  <city id="Oslo" country="NO">
     <altname l2="en" l="eng">Oslo</altname>
     <altname l="lat">Asloa</altname>
     <altname l="ind">Oslo</altname>
@@ -5953,7 +5953,7 @@
     <altname l2="pl" l="pol">Poniewież</altname>
     <altname l2="de" l="deu">Ponewesch</altname>
   </city>
-  <city id="Paris">
+  <city id="Paris" country="FR">
     <altname l2="en" l="eng">Paris</altname>
     <altname a="chinese" l="zho">巴黎</altname>
     <altname l="ara">Bārīs</altname>
@@ -7383,7 +7383,7 @@
     <altname s="former" l2="it" l="ita">Stérzen</altname>
     <altname s="former" l2="it" l="ita">Sterzinga</altname>
   </city>
-  <city id="Stockholm">
+  <city id="Stockholm" country="SE">
     <altname l2="en" l="eng">Stockholm</altname>
     <altname l="cat">Estocolm</altname>
     <altname l2="pt" l="por">Estocolmo</altname>
@@ -7602,7 +7602,7 @@
     <altname l2="hu" l="hun">Szombathely</altname>
     <altname l2="sl" l="slv">Szombathely</altname>
   </city>
-  <city id="Tallinn">
+  <city id="Tallinn" country="EE">
     <altname l2="en" l="eng">Tallinn</altname>
     <altname s="former" l2="fi" l="fin">Rääveli</altname>
     <altname s="former" l2="sv" l="swe">Rävel</altname>
@@ -7938,17 +7938,17 @@
     <altname s="old" l2="ro" l="ron">Tulon</altname>
     <altname l2="lv" l="lav">Tulona</altname>
   </city>
-  <city id="Toul">
+  <city id="Toul" country="FR">
     <altname l2="en" l="eng">Toul</altname>
-    <altname l2="fr" l="fra">Toulouse</altname>
-    <altname l2="fi" l="fin">Toulouse</altname>
-    <altname l2="de" l="deu">Toulouse</altname>
-    <altname l2="pt" l="por">Toulouse</altname>
-    <altname l2="ro" l="ron">Toulouse</altname>
-    <altname l2="sv" l="swe">Toulouse</altname>
+    <altname l2="fr" l="fra">Toul</altname>
+    <altname l2="fi" l="fin">Toul</altname>
+    <altname l2="de" l="deu">Toul</altname>
+    <altname l2="pt" l="por">Toul</altname>
+    <altname l2="ro" l="ron">Toul</altname>
+    <altname l2="sv" l="swe">Toul</altname>
     <altname s="old" l2="de" l="deu">Tull</altname>
   </city>
-  <city id="Toulouse">
+  <city id="Toulouse" country="FR">
     <altname l2="en" l="eng">Toulouse</altname>
     <altname l="cat">Tolosa de Llenguadoc</altname>
     <altname l2="it" l="ita">Tolosa</altname>
@@ -8347,7 +8347,7 @@
     <altname l2="tr" l="tur">Vatikan</altname>
     <altname l2="fi" l="fin">Vatikaani</altname>
   </city>
-  <city id="Venice">
+  <city id="Venice" country="IT">
     <altname l2="en" l="eng">Venice</altname>
     <altname l="zho">Weinisi</altname>
     <altname a="chinese" l="zho">威尼斯</altname>
@@ -8426,7 +8426,7 @@
     <altname l2="it" l="ita">Vicenza</altname>
     <altname s="former" l2="de" l="deu">Wiesenthein</altname>
   </city>
-  <city id="Vienna">
+  <city id="Vienna" country="AT">
     <altname l2="en" l="eng">Vienna</altname>
     <altname l="hrv">Beč</altname>
     <altname l2="sr" l="srp">Beč</altname>
@@ -8507,7 +8507,7 @@
     <altname l2="de" l="deu">Villach</altname>
     <altname l2="it" l="ita">Villaco</altname>
   </city>
-  <city id="Vilnius">
+  <city id="Vilnius" country="LT">
     <altname l2="en" l="eng">Vilnius</altname>
     <altname l="ara">Filniyūs</altname>
     <altname l="Samogitian">Vėlnios</altname>
@@ -8633,7 +8633,7 @@
     <altname l2="lv" l="lav">Volgograda</altname>
     <altname l2="lt" l="lit">Volgogradas</altname>
   </city>
-  <city id="Vyborg">
+  <city id="Vyborg" country="RU">
     <altname l2="en" l="eng">Vyborg</altname>
     <altname l2="et" l="est">Viiburi</altname>
     <altname l2="fi" l="fin">Viipuri</altname>
@@ -8655,7 +8655,7 @@
     <altname l2="fr" l="fra">Waremme</altname>
     <altname l="wln">Wareme</altname>
   </city>
-  <city id="Warsaw">
+  <city id="Warsaw" country="PL">
     <altname l2="en" l="eng">Warsaw</altname>
     <altname a="chinese" l="zho">華沙</altname>
     <altname l2="ga" l="gai">Vársá</altname>
@@ -8859,7 +8859,7 @@
     <altname l2="lv" l="lav">Zadara</altname>
     <altname l2="lt" l="lit">Zadaras</altname>
   </city>
-  <city id="Zagreb">
+  <city id="Zagreb" country="HR">
     <altname l2="en" l="eng">Zagreb</altname>
     <altname s="former" l2="de" l="deu">Agram</altname>
     <altname s="former" l2="ru" l="rus">Agram</altname>
@@ -8921,32 +8921,32 @@
     <altname l="lat">Mons Viridis</altname>
     <altname l2="pl" l="pol">Zielona Góra</altname>
   </city>
-  <city id="Zittau">
+  <city id="Zittau" country="DE">
     <altname l2="en" l="eng">Zittau</altname>
     <altname l2="cs" l="ces">Žitava</altname>
     <altname l2="nl" l="nld">Zittau</altname>
     <altname l2="de" l="deu">Zittau</altname>
     <altname l2="pl" l="pol">Żytawa</altname>
   </city>
-  <city id="Zlín">
+  <city id="Zlín" country="CZ">
     <altname l2="en" l="eng">Zlín</altname>
     <altname s="former" l2="en" l="eng">Gottwaldov</altname>
   </city>
-  <city id="Znamensk">
+  <city id="Znamensk" country="RU">
     <altname l2="en" l="eng">Znamensk</altname>
     <altname l2="lt" l="lit">Vėluva</altname>
     <altname l2="de" l="deu">Wehlau</altname>
     <altname l2="pl" l="pol">Welawa</altname>
     <altname l2="ru" l="rus">Znamensk</altname>
   </city>
-  <city id="Znojmo">
+  <city id="Znojmo" country="CZ">
     <altname l2="en" l="eng">Znojmo</altname>
     <altname l2="de" l="deu">Znaim</altname>
     <altname l2="pl" l="pol">Znojmo</altname>
     <altname l2="cs" l="ces">Znojmo</altname>
     <altname l2="sk" l="slk">Znojmo</altname>
   </city>
-  <city id="Zolochiv">
+  <city id="Zolochiv" country="UA">
     <altname l2="en" l="eng">Zolochiv</altname>
     <altname l2="pl" l="pol">Złoczew</altname>
     <altname l2="pl" l="pol">Złoczów</altname>
@@ -8956,7 +8956,7 @@
     <altname l="ukr">Zolochiv</altname>
     <altname a="cyrillic" l="ukr">Золочів</altname>
   </city>
-  <city id="Zug">
+  <city id="Zug" country="CH">
     <altname l2="en" l="eng">Zug</altname>
     <altname l2="fr" l="fra">Zoug</altname>
     <altname l2="nl" l="nld">Zug</altname>
@@ -8964,7 +8964,7 @@
     <altname l="roh">Zug</altname>
     <altname l2="it" l="ita">Zugo</altname>
   </city>
-  <city id="Zurich">
+  <city id="Zurich" country="CH">
     <altname l2="en" l="eng">Zurich</altname>
     <altname a="chinese" l="zho">蘇黎世</altname>
     <altname l="jpn">Chūrih(h)i</altname>
@@ -8996,7 +8996,7 @@
     <altname l2="el" l="ell">Zyríkhi</altname>
     <altname a="greek" l2="el" l="ell">Ζυρίχη</altname>
   </city>
-  <city id="Zwickau">
+  <city id="Zwickau" country="DE">
     <altname l2="en" l="eng">Zwickau</altname>
     <altname l2="cs" l="ces">Cvikov</altname>
     <altname l2="nl" l="nld">Zwickau</altname>
